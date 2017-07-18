@@ -2,10 +2,10 @@
 
 
 ## Constitution
-1. The name of the society is the Vancouver Hack Space Society.
-2. The purposes of the society are:
-  2.1 To provide a physical space where hackers, computer geeks, engineers, circuit benders, crafters, and other creative types can gather to share ideas, knowledge, equipment, and opinions in a friendly and collaborative atmosphere.
-  2.2 To provide related services and tools for fostering playful cleverness, as determined by the membership.
+- 1 The name of the society is the Vancouver Hack Space Society.
+- 2 The purposes of the society are:
+  - 2.1 To provide a physical space where hackers, computer geeks, engineers, circuit benders, crafters, and other creative types can gather to share ideas, knowledge, equipment, and opinions in a friendly and collaborative atmosphere.
+  - 2.2 To provide related services and tools for fostering playful cleverness, as determined by the membership.
 
 
 ## Bylaws of the Vancouver Hack Space Society

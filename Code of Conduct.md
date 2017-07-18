@@ -9,10 +9,10 @@ Vancouver Hack Space Society (VHS) is an inclusive community where all our visit
 
 This code of conduct is in addition to the Principles of Unity and other rules, which cover safety and the ethos of the space.
 
-- 1. It is unacceptable to harass or discriminate against others for any reason.
-- 2. Keep all communication civil and keep swearing to a minimum; if you can’t make a comment politely and persuasively, don’t make it at all. Your conduct reflects on the image of the VHS as seen by outsiders.
-- 3. Trolling is never appropriate.
-- 4. Personal attacks will not be tolerated.
+- 1 It is unacceptable to harass or discriminate against others for any reason.
+- 2 Keep all communication civil and keep swearing to a minimum; if you can’t make a comment politely and persuasively, don’t make it at all. Your conduct reflects on the image of the VHS as seen by outsiders.
+- 3 Trolling is never appropriate.
+- 4 Personal attacks will not be tolerated.
 
 If you ignore these guidelines you will initially be warned or moderated. Subsequent offences may result in you being banned from the communications channels. Additionally, the board of directors may start proceedings under the Grievance Procedure.
 
@@ -27,12 +27,12 @@ The board of directors (BoD) has the authority to ban anyone from entering the s
 
 We will only ban repeat offenders who persistently demonstrate unwillingness to cooperate. Throughout the process every effort will be made to keep clear and constructive communication between the BoD, the offending party, and any other affected parties.
 
-- 1. **Introduction**
+- 1 **Introduction**
   - 1.1 This policy applies to both members and non-members who use VHS.
   - 1.2 A person may be banned from the space if they are in violation of VHS rules or Code of Conduct, if they are causing persistent annoyance, or if they have the potential to harm other users of the space.
   - 1.3 Before the formal banning procedure is entered into, the BoD must make every attempt to resolve the issue informally.
   - 1.4 However, in the case of direct physical violence towards any person in the space, a member has the authority to immediately ban the offender for one month and refer the case to the BoD.
-- 2. **Process**
+- 2 **Process**
   - 2.1 The BoD investigates complaints and determines the validity of the complaint and determines whether the described behaviour is in violation of VHS rules or Code of Conduct.
   - 2.2 The offending party must be given at least two official warnings before being banned. At every stage, it must be made clear to the party where they are in this process.
   - 2.3 At every stage, it must be the decision of the BoD that allowing the user to continue to use the space would not be in the best interest of the organisation.
